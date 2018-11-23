@@ -6,9 +6,9 @@ The Devanagari character set consists of 46 characters - 36 alphabets and 10 num
 
 Ensure all the required libraries are installed before running the jupyter notebook.
 
-### Contents
-##### 1. Get the Data
-##### 2. Plotting the data - For understanding the dataset
-##### 3. Tensorflow Functions for CNN - Model Architecture and construction, using different TF APIs.
-##### 4. Training the model (how to feed and evaluate Tensorflow graph)
-##### 5. Prediction
+###     Contents
+#####     1. Get the Data
+#####     2. Plotting the data - For understanding the dataset
+#####     3. Tensorflow Functions for CNN - Model Architecture and construction, using different TF APIs.
+#####     4. Training the model (how to feed and evaluate Tensorflow graph)
+#####     5. Prediction
