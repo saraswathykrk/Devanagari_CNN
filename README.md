@@ -10,5 +10,5 @@ Ensure all the required libraries are installed before running the jupyter noteb
 #####     1. Get the Data
 #####     2. Plotting the data - For understanding the dataset
 #####     3. Tensorflow Functions for CNN - Model Architecture and construction, using different TF APIs.
-#####     4. Training the model (how to feed and evaluate Tensorflow graph)
+#####     4. Training the model
 #####     5. Prediction
